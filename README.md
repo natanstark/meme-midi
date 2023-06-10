@@ -11,7 +11,9 @@ Abra o arquivo index.html em seu navegador.
 
 # Tecnologias utilizadas
 
-HTML, CSS e JavaScript
+HTML5: para estruturação e marcação do conteúdo.
+CSS3: para estilização e aparência visual do teclado virtual.
+JavaScript: para manipulação de eventos de teclado e reprodução dos áudios.
 
 ## Feito por:
 
